@@ -1,4 +1,4 @@
-yarn-error.txt
+*.log
 node_modules/**/*
 .expo/*
 npm-debug.*
